@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf-norm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "Hhh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "Hey."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-norm",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "ski boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "That was fun, but... my chest is starting to feel funny."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-norm",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "beep...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "I-I'm not giving up just yet though. You've got some tight bars, little man."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-norm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bee bo ski bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "Oh? You want me to keep going?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "F-fine by me. I'm enjoying this actually."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "One more couldn't hurt..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "garnerves",
+			"text": "...Right?"
+		}
+	]
+}
